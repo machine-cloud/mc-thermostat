@@ -1,1 +1,1 @@
-web: bin/web
+thermostat: bin/thermostat
